@@ -7,10 +7,10 @@ Welcome to the **Fitness Tracker** project! This application helps users track t
 
 The Fitness Tracker is a web application built with **React** and **Material-UI**. It allows users to log their workouts, view statistics, and get motivated with fitness-related quotes. The application is designed to be user-friendly and visually appealing.
 
-<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_07_PM.png?updatedAt=1749458960566" width="45%" />
-<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_07_PM%20(1).png?updatedAt=1749458536887" width="45%" height=180/>
-<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_08_PM.png?updatedAt=1749458537186" width="45%" height=170/>
-<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_08_PM%20(1).png?updatedAt=1749458536884" width="45%" />
+<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_07_PM.png?updatedAt=1749458960566"/>
+<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_07_PM%20(1).png?updatedAt=1749458536887"/>
+<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_08_PM.png?updatedAt=1749458537186"/>
+<img src="https://ik.imagekit.io/pyf4swq6nz/Fitness-Tracker-06-09-2025_02_08_PM%20(1).png?updatedAt=1749458536884"/>
 
 
 ## ✨ Features
